@@ -117,13 +117,17 @@ ul li span {
 #enter-right {
   height: 130px;
   position: absolute;
-  top: 210px;
+  top: 212px;
   left: 216px;
 }
 #zero {
   width: 107px;
   text-align: left;
   padding-left: 25px;
+  margin-top: 2px;
+}
+#del{
+  margin-top: 2px;
 }
 .light {
   position: absolute;
